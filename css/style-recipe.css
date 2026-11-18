@@ -1,0 +1,70 @@
+
+
+h1 {
+  font-family: "Sedgwick Ave Display", cursive;
+  font-size: 60px;
+	color: blueviolet;
+  border: 12px ridge darkgoldenrod;
+  padding: 10px;
+  text-align: center;
+  background-color: cornsilk;
+  margin-bottom: px;
+  width: 800px;
+  display: block;
+  margin: auto;
+}
+
+#intro {
+  font-size: 30px;
+  color: darkgoldenrod;
+  text-align: center;
+  margin-top: 0px;
+}
+
+img {
+  display: block;
+  margin: auto;
+ 
+}
+
+
+
+p, li {
+  font-size: 22px;
+}
+
+.food {
+	border: 20px ridge darkgoldenrod;
+	margin: 0px;
+
+}
+
+body {
+  background-image: url(/old-paper.avif);
+   font-family: "Schoolbell", cursive;
+  margin: 150px;
+
+}
+
+h2 {
+  font-family: "Sedgwick Ave Display", cursive;
+  font-size: 25px;
+	color: blueviolet;
+  border: 12px ridge darkgoldenrod;
+  padding: 10px;
+  text-align: center;
+  background-color: cornsilk;
+  margin-bottom: 5px;
+  width: 250px;
+}
+
+a:hover {
+  background-image: url(images/sparkle.gif)
+}
+
+
+
+
+
+
+

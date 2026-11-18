@@ -20,10 +20,10 @@ This repository holds your homepage and every project it links to. CodePen takes
 
 Tick a box by changing `[ ]` to `[x]` in this file. Then commit.
 
-- [ ] **1. Import your CodePen 2.0 export.** Your homepage Pen, `desn368-home`, becomes `index.html` here.
-- [ ] **2. Put each file in its folder.** `style.css` goes in `css/`, images in `images/`, scripts in `js/`. Update every `href` and `src` to match.
-- [ ] **3. Switch Pages on.** Settings, then Pages, then Source: GitHub Actions. Put your live address at the top of this file.
-- [ ] **4. Check the live site.** Your homepage opens at the live address with its styles and every image.
+- [x] **1. Import your CodePen 2.0 export.** Your homepage Pen, `desn368-home`, becomes `index.html` here.
+- [x] **2. Put each file in its folder.** `style.css` goes in `css/`, images in `images/`, scripts in `js/`. Update every `href` and `src` to match.
+- [x] **3. Switch Pages on.** Settings, then Pages, then Source: GitHub Actions. Put your live address at the top of this file.
+- [x] **4. Check the live site.** Your homepage opens at the live address with its styles and every image.
 - [ ] **5. Move your recipe in:** `projects/recipe/`.
 - [ ] **6. Move your tribute in:** `projects/tribute/`.
 - [ ] **7. Build your field guide here:** `projects/field-guide/`.
